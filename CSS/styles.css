@@ -27,6 +27,7 @@ a:active {
 }
 
 body {
+  margin-top: 275;
   color:  rgb(0, 0, 0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
