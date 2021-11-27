@@ -27,9 +27,8 @@ a:active {
 }
 
 body {
-  position: relative;
-  top: 275;
-  right: 125;
+  margin-top: 275;
+  margin-right: 125;
   color:  rgb(0, 0, 0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
