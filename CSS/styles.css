@@ -32,6 +32,7 @@ a:active {
 
 /*main text*/
 body {
+  padding-top: 35;
   margin-top: 475;
   margin-right: 225;
   color:  rgb(0, 0, 0);
