@@ -21,7 +21,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: rgb(244, 119, 30);
+  color: rgb(255, 255, 255);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
