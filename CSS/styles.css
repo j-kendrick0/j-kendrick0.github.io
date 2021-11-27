@@ -1,13 +1,23 @@
+/*menus*/
+
+/*top menu*/
+.topnav {
+  background-color: rgb(0,0,0);
+  overflow: hidden;
+}
+
+/*links*/
+
 /* unvisited link */
 a:link {
-  color: rgb(31, 31, 161);
+  color: rgb(16,78,139);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
 
 /* visited link */
 a:visited {
-  color: rgb(61, 61, 60);
+  color: rgb(16,78,139);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
@@ -26,6 +36,9 @@ a:active {
   font-family: "Palatino", Georgia, serif;
 }
 
+/*text*/
+
+/*main text*/
 body {
   margin-top: 475;
   margin-right: 225;
@@ -34,6 +47,7 @@ body {
   font-family: "Palatino", Georgia, serif;
 }
 
+/*headers*/
 h1 {
   position: fixed;
   top: 250;
