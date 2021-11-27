@@ -27,13 +27,17 @@ a:active {
 }
 
 body {
-  margin-top: 275;
+  margin-top: 475;
+  margin-right: 225;
   color:  rgb(0, 0, 0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
 
 h1 {
+  position: fixed;
+  top: 250;
+  right: 150;
   color:  rgb(0, 0, 0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
