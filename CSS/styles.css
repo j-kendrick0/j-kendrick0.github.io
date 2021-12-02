@@ -33,20 +33,20 @@ a:active {
 /*main text*/
 body {
   background-color: rgb(69,139,116);
-  color:  rgb(255,255,255);
+  color:  rgb(0,0,0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
 
 /*headers*/
 h1 {
-  color:  rgb(255,255,255);
+  color:  rgb(0,0,0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
 
 h2 {
-  color:  rgb(255,255,255);
+  color:  rgb(0,0,0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
