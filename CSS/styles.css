@@ -16,14 +16,14 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(16, 78, 139);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
 
 /* selected link */
 a:active {
-  color: rgb(255, 255, 255);
+  color: rgb(16, 78, 139);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
@@ -32,21 +32,20 @@ a:active {
 
 /*main text*/
 body {
-  background-color: rgb(255,239,219);
-  color:  rgb(255,255,255);
+  color:  rgb(0,0,0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
 
 /*headers*/
 h1 {
-  color:  rgb(255,255,255);
+  color:  rgb(0,0,0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
 
 h2 {
-  color:  rgb(255,255,255);
+  color:  rgb(0,0,0);
   text-decoration: none;
   font-family: "Palatino", Georgia, serif;
 }
